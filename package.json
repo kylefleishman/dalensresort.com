@@ -1,0 +1,38 @@
+{
+  "name": "Dalen's Resort",
+  "private": true,
+  "description": "Welcome to Dalens Resort! Home to nine cozy cabins located right on scenic Big Lake Chetac",
+  "version": "2.0.0",
+  "author": "Kyle Fleishman",
+  "dependencies": {
+    "@fontsource/merriweather": "^4.5.14",
+    "@fontsource/montserrat": "^4.5.14",
+    "gatsby": "^5.8.1",
+    "gatsby-plugin-feed": "^5.8.0",
+    "gatsby-plugin-image": "^3.8.0",
+    "gatsby-plugin-manifest": "^5.8.0",
+    "gatsby-plugin-sharp": "^5.8.1",
+    "gatsby-remark-images": "^7.8.0",
+    "gatsby-remark-prismjs": "^7.8.0",
+    "gatsby-remark-responsive-iframe": "^6.8.0",
+    "gatsby-source-filesystem": "^5.8.0",
+    "gatsby-transformer-remark": "^6.8.0",
+    "gatsby-transformer-sharp": "^5.8.0",
+    "prismjs": "^1.29.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^5.2.1",
+    "swiper": "^9.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  }
+}
